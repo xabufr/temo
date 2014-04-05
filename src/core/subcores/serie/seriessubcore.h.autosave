@@ -1,0 +1,15 @@
+#ifndef SERIESSUBCORE_H
+#define SERIESSUBCORE_H
+#include "../../subcore.h"
+
+namespace temo
+{
+    class SeriesSubCore: public SubCore
+    {
+        public:
+            SeriesSubCore();
+            
+    };
+}
+
+#endif // SERIESSUBCORE_H

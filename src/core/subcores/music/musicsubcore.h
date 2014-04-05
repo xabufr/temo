@@ -1,7 +1,7 @@
 #ifndef MUSICSUBCORE_H
 #define MUSICSUBCORE_H
 
-#include "../../subcore.h"
+#include "../subcore.h"
 
 namespace temo
 {

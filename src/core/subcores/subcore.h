@@ -1,15 +1,10 @@
 #ifndef SUBCORE_H
 #define SUBCORE_H
 
+#include "type.h"
+
 namespace temo
 {
-    enum class SubCoreType
-    {
-        MUSIC,
-        SERIE,
-        MOVIE
-    };
-
     class SubCore
     {
         public:

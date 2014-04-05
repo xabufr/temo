@@ -1,6 +1,6 @@
 #ifndef SERIESSUBCORE_H
 #define SERIESSUBCORE_H
-#include "../../subcore.h"
+#include "../subcore.h"
 
 namespace temo
 {

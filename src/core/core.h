@@ -3,13 +3,14 @@
 
 #include <vector>
 #include <memory>
-#include "subcore.h"
+#include "subcores/type.h"
 
 namespace temo
 {
     class MovieSubCore;
     class MusicSubCore;
     class SerieSubCore;
+    class SubCore;
     class Core
     {
         public:

@@ -1,5 +1,5 @@
 #include "core.h"
-#include "subcore.h"
+#include "subcores/subcore.h"
 #include <exception>
 
 #include "subcores/music/musicsubcore.h"

@@ -7,7 +7,8 @@
 #include "core/subcores/music/musicsubcore.h"
 #include "core/subcores/serie/seriesubcore.h"
 
-struct testClass {
+struct testClass
+{
     testClass() {std::cout << "tear up" << std::endl;}
     ~testClass() {std::cout << "tear down" << std::endl;}
     temo::Core core;

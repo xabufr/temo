@@ -1,6 +1,6 @@
 #ifndef MOVIESUBCORE_H
 #define MOVIESUBCORE_H
-#include "../../subcore.h"
+#include "../subcore.h"
 
 namespace temo
 {

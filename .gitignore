@@ -1,0 +1,14 @@
+*.autosave
+CMakeFiles/
+CMakeCache.txt
+CMakeLists.txt.user
+MakeFile
+Makefile
+*.project
+*.tags
+*.workspace
+*.session
+*.someone
+cmake_install.cmake
+*.o
+*.oxx

@@ -29,4 +29,19 @@ namespace temo
         }
         throw std::exception();
     }
+
+    MovieSubCore &Core::movieSubCore()
+    {
+        return static_cast<MovieSubCore&>(getSubCore(SubCoreType::MOVIE));
+    }
+
+    MusicSubCore &Core::musicSubCore()
+    {
+        return static_cast<MusicSubCore&>(getSubCore(SubCoreType::MUSIC));
+    }
+
+    SerieSubCore &Core::serieSubCore()
+    {
+        return static_cast<SerieSubCore&>(getSubCore(SubCoreType::SERIE));
+    }
 }

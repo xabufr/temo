@@ -2,7 +2,7 @@ TEMO
 ====
 Build from sources
 ----
-To buid TEMO from source, you w'll need:
+To build TEMO, you w'll need:
  * BOOST Unit Test Framework
  * CMAKE
  * Make

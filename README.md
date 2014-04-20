@@ -1,5 +1,6 @@
 TEMO
 ====
+[![Build Status](https://travis-ci.org/xabufr/temo.svg?branch=master)](https://travis-ci.org/xabufr/temo)
 Build from sources
 ----
 To build TEMO, you w'll need:

@@ -2,10 +2,10 @@
 #define BOOST_TEST_MAIN
 
 #include <boost/test/unit_test.hpp>
-#include "core/core.h"
-#include "core/subcores/movie/moviesubcore.h"
-#include "core/subcores/music/musicsubcore.h"
-#include "core/subcores/serie/seriesubcore.h"
+#include "../core/core.h"
+#include "../core/subcores/movie/moviesubcore.h"
+#include "../core/subcores/music/musicsubcore.h"
+#include "../core/subcores/serie/seriesubcore.h"
 
 struct testClass
 {

@@ -5,6 +5,7 @@ aux_source_directory(. SRC_LIST)
 file( GLOB_RECURSE
     source_files
     ./src/*.cpp
+    ./src/*.h
 )
 
 find_package(Boost REQUIRED COMPONENTS unit_test_framework)

@@ -3,9 +3,12 @@
 
 #include <string>
 
-struct Movie
+namespace temo
 {
-    std::string name;
-};
+    struct Movie
+    {
+        std::string name;
+    };
+}
 
 #endif // MOVIE_H
